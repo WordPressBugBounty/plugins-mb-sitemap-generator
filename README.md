@@ -1,0 +1,1 @@
+# plugins-mb-sitemap-generator
